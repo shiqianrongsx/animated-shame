@@ -1,0 +1,40 @@
+.boss_content_left {
+	width:					50px;
+	min-height:				400px;	
+	float:					left;		
+	margin: 				0 -1px 0 0px;
+	background:				url(images/content-lbg.png) 100%  0 no-repeat;
+}
+.boss_content_right {
+	width:					50px;
+	min-height:				400px;
+	float:					left;	
+	background:				url(images/content-rbg.png) 0 0 no-repeat;	
+}
+.boss_content_mid {
+	width:					800px;
+	min-height:				400px;
+	float:					left;	
+	background:				url(images/content-fold.png) repeat-x;	
+}
+.boss_image{
+	margin:70px 100px 0 100px;
+	float:left;
+}
+
+.boss_name{
+	margin:50px 0;	
+	float:left;
+}
+.boss_bio{
+	width:	700px;	
+	margin:0 0 0 100px;
+	float:left;
+}
+.list{
+	font-size:16px;
+}
+#container .boss_content_mid p{
+	text-indent:			0;
+	font-size:16px;
+}
