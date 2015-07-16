@@ -1,10 +1,3 @@
-/*
-Template Name: Educational Theory
-File: Homepage CSS
-Author: OS Templates
-Author URI: #
-Licence: <a href="#">Website Template Licence</a>
-*/
 
 #hpage_featured_info{
 	position:relative;
@@ -46,7 +39,7 @@ Licence: <a href="#">Website Template Licence</a>
 	padding-top:30px;
 	text-align:center;
 	font-weight:normal;
-	cursor:pointer; /* IE7 Doesnt render the cursor properly so this is needed */
+	cursor:pointer;
 	}
 
 #hpage_featured_info li img{
@@ -84,16 +77,11 @@ Licence: <a href="#">Website Template Licence</a>
 	width:600px;
 	margin:0 0 0px 0;
 	padding:0 0 10px 0;
-	/*border-bottom:1px solid #D8D8D8;*/
 	}
 
-#homepage .fl_left ul li.odd{
+#homepage .fl_left ul li.part{
 	margin-right:30px;
 	}
-
-/*#homepage .fl_left ul li a{
-	font-weight:bold;
-	}*/
 
 #homepage .fl_left ul li p{
 	margin:6px 0 0 0;
